@@ -17,6 +17,9 @@
    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   
    <h3>My latest projects</h3>
+   </br> 
 <ul>
   <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator"><b> Trading Strategy Simulator using Factors</b></li>
+     </br> 
+  <li><a href="https://github.com/RodrigoMedinaF/Trading-with-Real-Estate-Data/blob/main/REAL%20ESTATE%20DATA%20ANALYSIS%20-%20E4%20OCT%2022.ipynb"><b> Trading with Real Estate Data</b></li>
  </ul>
