@@ -20,6 +20,10 @@
    </br> 
 <ul>
   <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator"><b> Trading Strategy Simulator using Factors</b></li>
-     </br> 
+    </ul>  
+     <p>
+    Hours of runnig time are required to obtain the value of this final line:</br>  Total_average_returns_per_bin['Average Overperformance of Strategy test Scenarios'].max(),</br>  come and know the process!</p>
+
+  <ul>  
   <li><a href="https://github.com/RodrigoMedinaF/Trading-with-Real-Estate-Data/blob/main/REAL%20ESTATE%20DATA%20ANALYSIS%20-%20E4%20OCT%2022.ipynb"><b> Trading with Real Estate Data</b></li>
  </ul>
