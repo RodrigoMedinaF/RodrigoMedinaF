@@ -23,10 +23,10 @@
    </br> 
   
 <ul>
-  <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator/blob/main/Factor%20Trading%20Strategy%20Simulator%20-%20E33.ipynb"><b> Trading Strategy Simulator using Factor Investing</b></li>
+  <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator/blob/main/Factor%20Trading%20Strategy%20Simulator%20-%20E33.ipynb"><b>Strategy Simulator using Factor Investing</b></li>
     </ul>  
       </br> 
 
   <ul>  
-  <li><a href="https://github.com/RodrigoMedinaF/Trading-with-Real-Estate-Data/blob/main/REAL%20ESTATE%20DATA%20ANALYSIS%20-%20E4%20OCT%2022.ipynb"><b> Real Estate Data Insights</b></li>
+  <li><a href="https://github.com/RodrigoMedinaF/Trading-with-Real-Estate-Data/blob/main/REAL%20ESTATE%20DATA%20ANALYSIS%20-%20E4%20OCT%2022.ipynb"><b> Trading with Real Estate Data</b></li>
  </ul>
