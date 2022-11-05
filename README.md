@@ -21,11 +21,11 @@
    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   </br> 
   </br> 
-   <h3>My latest projects</h3>
+   <h3>My latest projects:</h3>
    </br> 
   
 <ul>
-  <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator/blob/main/Factor%20Trading%20Strategy%20Simulator%20-%20E33.ipynb"><b>Strategy Simulator using Factor Investing</b></li>
+ <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator/blob/main/Factor%20Trading%20Strategy%20Simulator%20-%20E33.ipynb"><b>Strategy Simulator using Factor Investing</b></li><h/4>
     </ul>  
       </br> 
 
