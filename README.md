@@ -1,6 +1,5 @@
-<h4><p>Welcome to my page!</h4> </br> 
+<h3><p>Welcome to my page!</h3> </br> 
 I am very passionate about Finance, Programming and Data Science </p>
-</br> 
 </br> 
 <h4>Things I code with</h4>
 <p>
