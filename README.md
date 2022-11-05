@@ -1,5 +1,5 @@
 <h2><p>Welcome to my page!</h2> </br> 
-<h3>I am very passionate about Finance, Programming, Data Science and among many things..... loops that run for hours </h3>
+<h3>I am very passionate about finance, programming, data science and among many things..... loops that run for hours </h3>
 </br> 
 <h3>Things I code with</h3>
 </br> 
