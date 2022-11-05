@@ -2,6 +2,8 @@
 <p>I am very passionate about Finance, Programming, Data Science and..... loops that run for hours </p>
 </br> 
 <h3>Things I code with</h3>
+</br> 
+</br> 
 <p>
    
    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -15,9 +17,11 @@
    <img alt="My SQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=" />
    <img alt="HTML 5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  
+  </br> 
+  </br> 
    <h3>My latest projects</h3>
    </br> 
+  
 <ul>
   <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator"><b> Trading Strategy Simulator using Factors</b></li>
     </ul>  
