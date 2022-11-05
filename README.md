@@ -1,7 +1,7 @@
 <h2><p>Welcome to my page!</h2> </br> 
-<h3>I am very passionate about Finance, Programming, Data Science and..... loops that run for hours </h3>
+<p>I am very passionate about Finance, Programming, Data Science and..... loops that run for hours </p>
 </br> 
-<h4>Things I code with</h4>
+<h3>Things I code with</h3>
 <p>
    
    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
