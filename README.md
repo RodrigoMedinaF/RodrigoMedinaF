@@ -28,6 +28,10 @@
  <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator/blob/main/Factor%20Trading%20Strategy%20Simulator%20-%20E33.ipynb"><b>Strategy Simulator using Factor Investing</b></li><h/4>
     </ul>  
       </br> 
+  <ul>    
+       <li><a href="https://github.com/RodrigoMedinaF/Can-I-use-your-fast-computer---a-loop-that-runs-for-days/blob/main/A%20Loop%20that%20runs%20for%20days%201%20Million%20Investment%20Scenarios%20.ipynb"><b>Can I use your (fast) computer? A loop that runs for days</b></li><h/4>
+    </ul>  
+      </br> 
 
   <ul>  
   <li><a href="https://github.com/RodrigoMedinaF/Trading-with-Real-Estate-Data/blob/main/REAL%20ESTATE%20DATA%20ANALYSIS%20-%20E4%20OCT%2022.ipynb"><b> Trading with Real Estate Data</b></li>
