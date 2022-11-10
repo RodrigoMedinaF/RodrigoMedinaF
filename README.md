@@ -10,7 +10,6 @@
    <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
    <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
    <img alt="Spyder IDE" src="https://img.shields.io/static/v1?style=for-the-badge&message=Spyder+IDE&color=FF0000&logo=Spyder+IDE&logoColor=FFFFFF&label=" />
-   <img alt="Google Colab" src="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Colab&color=222222&logo=Google+Colab&logoColor=FFFFFF&label=" />
    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
    <img alt="Numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
    </br> 
