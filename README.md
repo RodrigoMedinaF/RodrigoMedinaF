@@ -37,3 +37,12 @@
   <ul>  
   <li><a href="https://github.com/RodrigoMedinaF/Trading-with-Real-Estate-Data/blob/main/REAL%20ESTATE%20DATA%20ANALYSIS%20-%20E4%20OCT%2022.ipynb"><b> Trading with Real Estate Data</b></li>
  </ul>
+ 
+ 
+  </br> 
+   <h3>Currently working in:</h3>
+   </br> 
+    <li><a href=""><b>Binary Classifiers in Sentiment Analysis, how adjusting the weight vector works </b></li><h/4>
+          </br> 
+           <p> Binary Classifiers are used in a variety of sentiment analysis algorithms from email spam classification to movie reviews classification, the mechanics of these algorithms use a word dictionary, individual feature vectors for each item to be classified and a weight vector that determines the output of the classification, how is the weight vector adjusted to obtain the best prediction rate is what this project will explain.
+ </p>
