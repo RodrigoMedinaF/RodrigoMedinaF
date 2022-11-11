@@ -44,5 +44,5 @@
    </br> 
     <li><a href="https://github.com/RodrigoMedinaF/-Sentiment-Analysis-Understanding-Binary-Linear-Classifiers/blob/main/Sentiment%20Analysis%20E3.ipynb"><b>Binary Classifiers in Sentiment Analysis, how adjusting the weight vector works </b></li><h/4>
           </br> 
-           <p> Binary Classifiers are used in a variety of sentiment analysis algorithms from email spam classification to movie reviews classification, the mechanics of these algorithms use a word dictionary, individual feature vectors for each item to be classified and a weight vector that determines the output of the classification, how is the weight vector adjusted to obtain the best prediction rate is what this project will explain.
+           <p> Binary Classifiers are used in a variety of sentiment analysis algorithms from email spam classification to movie reviews classification, the mechanics of these algorithms use a word dictionary, individual feature vectors for each item to be classified and a weight vector that determines the output of the classification, how is the weight vector adjusted each time a new example is learned is what this project will explain.
  </p>
