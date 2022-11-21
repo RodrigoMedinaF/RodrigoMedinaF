@@ -23,7 +23,7 @@
    </br> 
   
 <ul>
- <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator/blob/main/Factor%20Trading%20Strategy%20Simulator%20-%20E33.ipynb"><b>Strategy Simulator using Factor Investing</b></li><h/4>
+ <li><a href="https://github.com/RodrigoMedinaF/Trading-Strategy-Engine-and-Simulator/blob/main/Factor%20Trading%20Strategy%20Simulator%20-%20E33.ipynb"><b>Strategy Backtester using Factor Investing</b></li><h/4>
     </ul>  
       </br> 
   <ul>    
