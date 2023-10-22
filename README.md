@@ -27,7 +27,7 @@
     </ul>  
       </br> 
   <ul>    
-       <li><a href="https://github.com/RodrigoMedinaF/A-loop-that-runs-1-million-investment-scenarios/blob/main/A%20Loop%20that%20runs%20for%20days%201%20Million%20Investment%20Scenarios%20.ipynb"><b>Can I use your (fast) computer? A loop that runs for days</b></li><h/4>
+       <li><a href="https://github.com/RodrigoMedinaF/1-Million-Investment-Scenarios/blob/main/1%20Million%20Investment%20Scenarios%20.ipynb"><b>A loop that runs 1 million investment scenarios</b></li><h/4>
           </br> 
            <p> Simulation that tests 1 Million out of sample Investment Scenarios from 1926 to 2022 with an estimated running time of 13 days.
  </p>
