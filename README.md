@@ -4,6 +4,8 @@
 <h3>I code with:</h3>
 </br> 
 <p>
+<img alt="Claude" src="https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
 <img alt="Jupyter Notebook" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
