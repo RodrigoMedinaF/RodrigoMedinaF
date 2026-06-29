@@ -1,5 +1,5 @@
 <h2><p>Welcome to my page!!</h2> </br> 
-<h3>I have strong interest in Business Analytics and AI Systems Architecture, building AI-augmented workflows, automation and experimentation platforms across Finance, Product, and Data Science</h3>
+<h3>I have strong interest in Business Analytics and AI Systems Architecture, building AI-augmented workflows, automation and experimentation platforms across Finance, and Digital Products</h3>
 </br> 
 <h3>I code with:</h3>
 </br> 
